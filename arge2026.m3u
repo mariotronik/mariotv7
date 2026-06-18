@@ -415,22 +415,26 @@ http://190.7.19.197:232/play/a022/index.m3u8?hls
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="307837" tvg-name="Los Simpson" tvg-logo="https://i.postimg.cc/3J8qYBY8/simpson.png" group-title="ANIME - TEEN", Los Simpson
-https://live20.bozztv.com/akamaissh101/ssh101/simptestnews/chunks.m3u8
+http://promas.lat:2082/Williamcruz/Hskdy5e9/31721
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk7iAPQiC6eQgFuti8v3-2TvU3lAvHFKXSdQ&s"group-title="INFANTIL",Bob Esponja Pantalones Cuadrados
-https://jmp2.uk/plu-6254598f5083f800076d8563.m3u8
+http://promas.lat:2082/Williamcruz/Hskdy5e9/7094
 
 #EXTINF:-1 tvg-id="El chavo del 8" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/El_Chavo_%28simple_logo%29.png/revision/latest/scale-to-width-down/284?cb=20200225033448&path-prefix=es" group-title="24/7",El chavo del 8 🇲🇽
-http://alfa.7057460.xyz:2095/Rubi1326/Gutierre2/16057
+http://promas.lat:2082/Williamcruz/Hskdy5e9/14720
 
 #EXTINF:-1 xui-id="305082" tvg-id="" tvg-name="24/7 El Chapulín Colorado" tvg-logo="https://i1.sndcdn.com/artworks-000128938584-y6fy34-t500x500.jpg" group-title="24/7 EXCLUSIVOS",24/7 El Chapulín Colorado
-https://venustvchile.com:2087/play/ii9kF2Q_W1DbBHP0qvJ5d2-Ql3_LtGv6NIZCFnZlM1AMcWfa4YFtO_wzoh-eBSvZ/ts
+http://promas.lat:2082/Williamcruz/Hskdy5e9/49647
 
 #EXTINF:-1 xui-id="419301" tvg-id="" tvg-name="24/7 Pantera Rosa" tvg-logo="https://i.pinimg.com/736x/64/89/b3/6489b3936f68fde2146cb176c4a465d5.jpg" group-title="24/7 EXCLUSIVOS",24/7 Pantera Rosa
-https://venustvchile.com:2087/play/ii9kF2Q_W1DbBHP0qvJ5d2-Ql3_LtGv6NIZCFnZlM1BeaayeTahPQchxNv9kiYqu/ts
+http://promas.lat:2082/Williamcruz/Hskdy5e9/49645
 
 #EXTINF:-1 xui-id="324486" tvg-id="" tvg-name="24/7 Chespirito" tvg-logo="https://3.bp.blogspot.com/_gr41FEso034/SUl_oXKqgnI/AAAAAAAAjzY/EmHqLzgQ8A8/s400/Roberto+Gomez+Bola%C3%B1os+como+chapulin+colorado.jpg" group-title="24/7 PPV",24/7 Chespirito
-https://venustvchile.com:2087/play/ii9kF2Q_W1DbBHP0qvJ5d2-Ql3_LtGv6NIZCFnZlM1D1CKsyFNHuMoykcwJk4UAZ/ts
+http://promas.lat:2082/Williamcruz/Hskdy5e9/48357
+
+#EXTINF:-1 xui-id="324486" tvg-id="" tvg-name="Los Tres Chiflados" tvg-logo="https://mdr.ar/download/multimedia.miniatura.90745f14463a6b92.V2hhdHNBcHAgSW1hZ2UgMjAyMy0wOC0yMSBhdCAxOS5fbWluaWF0dXJhLndlYnA=.webp" group-title="24/7 PPV",24/7 Los Tres Chiflados
+http://promas.lat:2082/Williamcruz/Hskdy5e9/49650
+
 
 #EXTINF:-1 xui-id="404924" tvg-id="" tvg-name="Looney Tunes" tvg-logo="https://lemediumsaignant.files.wordpress.com/2012/03/looney-tunes.jpg" group-title="24/7 PPV",Looney Tunes
 https://venustvchile.com:2087/play/ii9kF2Q_W1DbBHP0qvJ5d2-Ql3_LtGv6NIZCFnZlM1AUhGA-d7YJNvG14VNUlDjF/ts
